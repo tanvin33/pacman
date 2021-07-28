@@ -1,0 +1,4 @@
+<{command,ghost,maze,pacman,state}.ml>: coverage
+<test.{byte,native}>: coverage
+true: package(ounit2),package(ANSITerminal), package(csv), package(bisect_ppx)
+true: package(unix)
