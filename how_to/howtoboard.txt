@@ -1,0 +1,17 @@
+                      How to Make a Pac-Man Board:
+
+Part 1: Understanding the Different characters: 
+
+- 'C' is Pac-Man's starting positions
+- 'R','O','B','P' represent the ghosts of the colors Red, Orange, Pink, and 
+  Blue respectively
+- '*' are the energizers
+- '#' is a wall
+- 'X' is the ghost box
+- '=' is the exit to the ghost box
+
+Part 2: Requirments of a board csv file :
+
+Each file must have 1 Pac-Man, 1 of each ghost, and at least 1 exit tile. 
+The file must be a csv file.  Each row should have the same number of 
+commas. You can leave blanks between commas, those will become the dots. 

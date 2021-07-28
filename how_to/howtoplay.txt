@@ -1,0 +1,37 @@
+                            How to Play Pac-Man: 
+
+Part 1: Starting a Game:
+
+- From the main menu type 1 to start the game. 
+- You will then be prompted to give the name of a board file to use as the
+  the game board. Type maze.csv and hit enter to use the default board.
+  You can also make your own board and type in the name of the respective 
+  file or path to the file.  
+- Next, you will be prompted to choose a difficulty, type the corresponding 
+  number and hit enter. The gameboard should now be displayed!
+
+Part 2: Understanding the Board: 
+
+- The yellow 'C' is Pac-Man (aka your character) 
+  - To move Pac-Man use the WASD keys (up,left,down,right respectively)
+- The colored 'G's represent the ghosts
+- '.' are the dots 
+- '*' are the energizers
+- '#' is a wall
+
+Part 2: Pacman Rules: 
+
+- Your goal to win the game is to move Pac-Man around the board until you have 
+  collected all the dots. 
+- If you run into a ghost during normal gameplay you lose a life, and your 
+  position will be reset 
+- If you eat an energizers, the ghosts turn blue for a certain period of time 
+  During this time you may eat the ghosts, who will be running away, and the 
+  ghosts cannot eat you. 
+- Your score and lives will be displayed at the top 
+- At anytime press 'p' to pause/play the game and q to stop playing
+
+
+Part 3: Useful Tips:
+
+- We recommend making your terminal full screen for the best playing experience!
